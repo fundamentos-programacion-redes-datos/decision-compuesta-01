@@ -1,0 +1,19 @@
+1.  Inicio
+2.  // Declaración de la variable para almacenar la edad
+3.  edad, i[0-n]
+4.  
+5.  // Solicitar al usuario que ingrese la edad
+6.  Escribir "Ingrese la edad de la persona:"
+7.  Leer edad
+8.  
+9.  // Verificar si la persona es mayor de edad
+10. Si edad >= 18 entonces
+11.     // Si la condición es verdadera, la persona es mayor de edad
+12.     Escribir "Usted es mayor de edad en Ecuador."
+13. De lo contrario
+14.     // Si la condición es falsa, la persona es menor de edad
+15.     Escribir "Usted es menor de edad en Ecuador."
+16. Fin Si
+17.  
+18. // Fin del programa
+19. Fin
